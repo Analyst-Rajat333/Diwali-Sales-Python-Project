@@ -78,17 +78,6 @@ This project presents an in-depth **Exploratory Data Analysis (EDA)** on Diwali 
 
 ---
 
-## 📸 Key Charts (Upload as PNGs in Repo)
-
-- `gender_sales.png`
-- `age_group_sales.png`
-- `state_wise_orders.png`
-- `state_wise_amount.png`
-- `marital_status_sales.png`
-- `occupation_sales.png`
-- `product_category_sales.png`
-- `top_products.png`
-
-Embed example in README:
-```markdown
-![State-wise Orders](state_wise_orders.png)
+### 📌Clone the repository:
+git clone 
+https://github.com/Analyst-Rajat333/Diwali-Sales-Python-Project.git
