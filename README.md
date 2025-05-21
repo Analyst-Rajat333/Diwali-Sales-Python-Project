@@ -78,6 +78,14 @@ This project presents an in-depth **Exploratory Data Analysis (EDA)** on Diwali 
 
 ---
 
-### 📌Clone the repository:
-git clone 
-https://github.com/Analyst-Rajat333/Diwali-Sales-Python-Project.git
+### 🔗 GitHub Repository Link
+
+https://github.com/Analyst-Rajat333/Diwali-Sales-Python-Project
+
+---
+
+## 👨‍💻 Author
+
+**Rajat Saxena**  
+📧 **Email**: [rajatsaxena950@gmail.com](mailto:rajatsaxena950@gmail.com)  
+🔗 **GitHub**: [Analyst-Rajat333](https://github.com/Analyst-Rajat333)
